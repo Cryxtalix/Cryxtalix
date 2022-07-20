@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Cryxtalix from Singapore!:singapore:
-- 👀 I’m interested in programming, Calistenics and Guitar!
 - 🌱 I’m currently learning JavaScript, NodeJS, Python and C++.
 - ⏰ I'm planning to build upon my skills in embedded programming.
 <!---
