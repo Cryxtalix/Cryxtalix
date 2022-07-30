@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cryxtalix from Singapore!:singapore:
-- 🌱 I’m currently learning JavaScript, NodeJS, Python and C++.
-- ⏰ I'm planning to build upon my skills in embedded programming.
+- 🌱 I’m currently learning Haskell and Rust.
+- ⏰ I'm planning to build upon my skills in embedded programming and IoT.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
