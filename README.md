@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cryxtalix from Singapore!:singapore:
+- 👋 Hi, I’m @Cryxtalix from Singapore! 🇸🇬
 - 🌱 I’m currently learning systems programming and concurrency/parallelism.
 - 💡 Also interested to learn more about functional programming and memory safe languages.
 <!---
