@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Cryxtalix from Singapore!:singapore:
-- 🌱 I’m currently learning to work with RTOS on the ESP32.
-- ⏰ I'm planning to build upon my skills in embedded programming and IoT.
+- 🌱 I’m currently learning systems programming and concurrency/parallelism.
 - 💡 Also interested to learn more about functional programming and memory safe languages.
 <!---
 - 💞️ I’m looking to collaborate on ...
